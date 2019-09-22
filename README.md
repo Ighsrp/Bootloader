@@ -1,14 +1,10 @@
 # Bootloader
-Bootloader  em assembly x86 (real mode) em 3 etapas: boot 1, boot 2 e kernel
+Steps to perform:
 
+On Linux, do:
 
+1 - Install QEMU (https://www.qemu.org/download/)
 
-Passos para executar: 
+2 - Go to the directory where the bootloader 'cd ... \ bootimg' is
 
-No Linux, faça: 
-
-1 - Instale o QEMU (https://www.qemu.org/download/)
-
-2 - Vá até o diretório onde está o bootloader 'cd ...\bootimg'
-
-3 - digite o comando 'make all'
+3 - type the command 'make all'
